@@ -26,7 +26,7 @@ return {
         models = {
             -- zentorno = { 'pdm', 'luxury' },
 
-            oppressor = 'luxury',
+            --oppressor = 'luxury',
             --- Sports
             alpha = 'luxury',
             banshee = 'luxury',
@@ -273,14 +273,14 @@ return {
                 vec4(-41.75, -1111.49, 25.87, 71.5),
             },
             showroomVehicles = {
-                { coords = vec4(-45.65, -1093.66, 25.44, 69.5), vehicle = 'asbo' },
-                { coords = vec4(-48.27, -1101.86, 25.44, 294.5), vehicle = 'schafter2' },
-                { coords = vec4(-39.6, -1096.01, 25.44, 66.5), vehicle = 'greenwood' },
-                { coords = vec4(-51.21, -1096.77, 25.44, 254.5), vehicle = 'vigero' },
-                { coords = vec4(-40.18, -1104.13, 25.44, 338.5), vehicle = 'impaler' },
-                { coords = vec4(-43.31, -1099.02, 25.44, 52.5), vehicle = 'bati' },
-                { coords = vec4(-50.66, -1093.05, 25.44, 222.5), vehicle = 'bati' },
-                { coords = vec4(-44.28, -1102.47, 25.44, 298.5), vehicle = 'bati' },
+                { coords = vec4(-50.30, -1083.41, 26.32, 206.79), vehicle = 'asbo' },
+                { coords = vec4(-47.50, -1092.05, 26.32, 245.14), vehicle = 'schafter2' },
+                { coords = vec4(-37.50, -1092.94, 26.32, 212.88), vehicle = 'greenwood' },
+                { coords = vec4(-54.50, -1097.24, 26.32, 21.59), vehicle = 'vigero' },
+                { coords = vec4(-40.18, -1104.13, 26.32, 338.5), vehicle = 'bati' },
+                { coords = vec4(-35.71, -1098.90, 26.32, 65.53), vehicle = 'impaler' },
+                { coords = vec4(-43.38, -1095.73, 26.32, 158.69), vehicle = 'bati' },
+                { coords = vec4(-53.98, -1091.70, 26.32, 256.70), vehicle = 'bati' },
             },
         },
 
